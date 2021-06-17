@@ -1,5 +1,5 @@
 # Flutter Page Transitions
-> Page Transition package: [animations](https://pub.dev/packages/page_transition)
+> Page Transition package: [page_transition](https://pub.dev/packages/page_transition)
 
 </br>
 
